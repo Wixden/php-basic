@@ -2,10 +2,12 @@
 // To create a constant, use the define() function
 // Create a constant with a case-sensitive name:
 define("name", "Akhtar Hussain");
+echo name;
 
 
 // Create a constant with a case-insensitive name:
-define("email", "akhtarhussain97@gmail.com", true);
+define("Email", "akhtarhussain97@gmail.com");
+echo Email;
 
 /* 
 Parameters:
