@@ -15,12 +15,12 @@ echo "<p>" . $phone . "</p>";
 $num1 = 30;
 $num2 = 40;
 
-echo "Sum of 30+40 =" . $num1 + $num2;
+echo "Sum of 30+40 = " . $num1 + $num2;
 
 echo "<br/>";
 
 $num3 = 50;
 $num4 = 30;
 
-$sum = $num3 + $num4;
-echo "Sum of 50+30 =" . $sum;
+$sum = $num3 * $num4;
+echo "Sum of 50 X 30 = " . $sum;
