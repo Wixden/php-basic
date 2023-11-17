@@ -19,6 +19,7 @@ case-insensitive: Specifies whether the constant name should be case-insensitive
 */
 
 // You can also create a constant by using the const keyword.
+// You can also create a constant by using the const keyword.
 
 const firstName = "Mohammed";
 const lastName = "Akhtar Hussain";
